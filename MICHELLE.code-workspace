@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../michele web"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MICHELLE",
+		"liveServer.settings.port": 5501
+	}
+}
